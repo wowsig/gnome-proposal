@@ -1,0 +1,71 @@
+8 month plan:
+
+
+Available months:
+November (from today onwards)
+December
+January 
+February 
+March
+April
+May 
+June
+July
+
+=====================
+Tentative submission date of the thesis document : 31st August 
+=====================
+
+Below I will attempt to outline a usability test plan for Gnome 3. From the 8 months that are available to me for the internships, I believe I can complete the first 3 tasks from the said plan in 2 months. This will probably be the first major goal to be completed.
+
+Goal 1: Conduct usability test of Gnome 3 and design the suggested redesigns.
+=====================
+Tasks to be taken up for usability testing.
+Following a user centered design policy: 
+
+1. Understanding the Gnome 3 experience in terms of the desktop metaphor that it is conveying. 
+
+2. Doing user analysis and creating user profiles
+	2.1 A clear understanding of the users that Gnome3 is looking to engage with. 
+	2.2 Breaking the types of users into seperate groups having strong characteristics within the group.
+
+3. Funneling down the most important user group to be tested (based on the maximum number of users being in the group, the group having the most
+usability issues)
+	
+4. Defining the specific usability goals for Gnome3
+	4.1 Define what to test for? Breaking the Gnome3 experience into usability doable tasks for which usability testing will be conducted.
+	
+5. Choosing the type of tests (performance, understanding, locating)
+
+6. Conducting tests (steps in testing)
+
+7. Data analysis
+
+At the moment, this is the only major goal that I can outline with my current understanding of the Gnome Design Project. Another goal that I can add is that of the Character Map on which I already have some progress and roadmap. Let me know if you would like me to add it here. Am adding a few more suggestions.
+
+Possible Goal 2: Character Map Redesign
+=====================
+<add details later>
+
+Possible Goal 3: Weather App Redesign
+=====================
+<add details later>
+
+
+
+Please note that as of today, November 19th, my internship has actually commenced. I will be doing this full time for the next 8 months. I wanted to state this clearly as I will not be waiting for the women internship programme of Gnome. My faculty has already approved of this intership and have asked me to begin. Since I am the one of the first such students to attempt this mode of work, even the faculty is not 100% clear on the requirement. But they are supportive enough of the experiment and have just asked me to continuously update them on the progress and the work. If required, they will be guiding me during the course based on my weekly reports to them.
+
+However, the Gnome Women Internship would be a much welcome bonus to the internship period as it will help me fund myself for the coming months. So I will attempt seriously for that as well. So if you think some of the goals can be broken to down to be attempted atomically during the internship duration then kindly suggest.
+
+About my work hours: 
+I am available 35 to 40 hours a week. My timezone is IST (GMT +0530). I will be reachable by Skype, IRC, Email or Phone during standard work hours.
+
+
+
+
+
+
+
+
+
+
